@@ -47,3 +47,4 @@ xfun
 xtable
 yaml
 R6
+r6
