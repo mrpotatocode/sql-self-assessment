@@ -46,3 +46,4 @@ withr
 xfun
 xtable
 yaml
+R6
