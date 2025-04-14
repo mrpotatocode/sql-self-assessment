@@ -1,0 +1,14 @@
+---
+title: R Example
+engine: knitr
+format: live-html
+---
+
+{{< include ./_extensions/r-wasm/live/_knitr.qmd >}}
+
+Fill in the blank so that the result of the sum is 10.
+
+```{webr}
+#| exercise: ex_1
+1 + 2 + 3 + ______
+```
